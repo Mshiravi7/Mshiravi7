@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm MohammadAmin, and welcome to my GitHub bio. 👋
+🌱 I’m currently learning ML and DL and front end development
+
+
+🎶 I love listening to Rock songs.
 
 <!--
 **Mshiravi7/Mshiravi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
